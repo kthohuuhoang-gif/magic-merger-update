@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "6b402cc1ad1671f7ea91a667905e7ae5a58edcacc2d90f7690fc2c2065fc0b32",
-  "date": "2026-06-09",
-  "size": 1795196,
-  "notes": "Ban thu nghiem OTA"
+  "sha256": "afb4347f496e2d897df9f54e1dd3932c8f837efeeb23fbc8dbbd7970795eb882",
+  "date": "2026-06-10",
+  "size": 1852344,
+  "notes": "Ban phat hanh chinh thuc"
 }
