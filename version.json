@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "5c29a6711c3f47af48ddfc87c3ae404d45b19cd0dd53357c798258721807af34",
-  "date": "2026-06-10",
-  "size": 1936523,
-  "notes": "Bo sung Drag mo rong. Cap nhat tinh nang Don dep file sau gom Maps"
+  "sha256": "d4206532a25864fb1d57beb7559c5521c8b5a76f1a4f91a1af08e50be3124928",
+  "date": "2026-06-11",
+  "size": 1969625,
+  "notes": "Update giao dien. Support list file merge xuat Cad ngay trong 1 phien lam viec."
 }
