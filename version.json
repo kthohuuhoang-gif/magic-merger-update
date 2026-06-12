@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
+  "version": "1.2.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "f2e4f7b8e6952c29b3a12735d75a7549463fc73673dbc8ea8f2e01c2233506f8",
-  "date": "2026-06-12",
-  "size": 2011969,
-  "notes": "Support file nen thay anh Preview"
+  "sha256": "1c9d4e19fea4ab44dfd8a519f2be55cab561c9a5c5a0827bed239f9a48f5695b",
+  "date": "2026-06-13",
+  "size": 43255629,
+  "notes": "Ban nang cap lon. Ho tro import day du Sketchup, GLB, OBJ, FBX,... Bo sung them che do merger trong sanbox giup an toan trong qua trinh su dung merge cac file khong ro danh tinh, co virus. "
 }
