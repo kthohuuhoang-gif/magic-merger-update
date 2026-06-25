@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.6",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "8feb47425b13eee6872b9848eb0b972a59b04a436c6e49860de0330614248477",
+  "sha256": "f152210f9f7bdc550518ab3e0b1ecc71ea9275dba611bac4e3dc118c93fc4741",
   "date": "2026-06-25",
-  "size": 43277266,
-  "notes": "Dieu chinh ham save tranh bug"
+  "size": 43283876,
+  "notes": "Support man 1920"
 }
