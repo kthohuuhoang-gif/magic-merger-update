@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "6b2feedddcc51f91b9b460120cfd9b845b3e57e1f14ec81689fe217d2d51f19f",
-  "date": "2026-06-20",
-  "size": 43268251,
-  "notes": "Fix bug xoa nham file nen. Bo sung luu Setting"
+  "sha256": "8feb47425b13eee6872b9848eb0b972a59b04a436c6e49860de0330614248477",
+  "date": "2026-06-25",
+  "size": 43277266,
+  "notes": "Dieu chinh ham save tranh bug"
 }
