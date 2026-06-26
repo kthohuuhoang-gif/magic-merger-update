@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "e98be3ecd51caac6c1f378d213503db77baa66d2010bd31e2ca4641c1e238960",
+  "sha256": "ef450a28576f3f553f60dfc2c3a49828c44c9c66b77ead055fcfaff12d44ad70",
   "date": "2026-06-26",
-  "size": 1101119,
-  "notes": "Dong bo design he sinh thai Magic"
+  "size": 1111863,
+  "notes": "Fix bug clean mesh Su"
 }
