@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "6ad41f5ae00ec0984bfd0f2d5a4e369b0eba8acf58279fed3242120f01b696aa",
+  "sha256": "82e6003b98a0893f2e774a3b38d5ba1ef6af4c7465326eacca675e8e7706d185",
   "date": "2026-06-27",
-  "size": 1229125,
-  "notes": "Mo rong support anh preview cho nhieu dinh dang. Toi uu giao dien vung nhin"
+  "size": 1229088,
+  "notes": "Mo rong support Preview. Toi uu giao dien list"
 }
