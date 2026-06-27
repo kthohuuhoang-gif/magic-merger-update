@@ -1,8 +1,8 @@
 {
   "version": "1.2.8",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "ef450a28576f3f553f60dfc2c3a49828c44c9c66b77ead055fcfaff12d44ad70",
-  "date": "2026-06-26",
-  "size": 1111863,
-  "notes": "Fix bug clean mesh Su"
+  "sha256": "6ad41f5ae00ec0984bfd0f2d5a4e369b0eba8acf58279fed3242120f01b696aa",
+  "date": "2026-06-27",
+  "size": 1229125,
+  "notes": "Mo rong support anh preview cho nhieu dinh dang. Toi uu giao dien vung nhin"
 }
