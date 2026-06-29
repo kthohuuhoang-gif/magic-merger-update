@@ -1,1 +1,8 @@
-
+{
+  "version": "1.3.2",
+  "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
+  "sha256": "42a6d4cecae2d2b23fe6d4acdb60eb61f75fd4ed446813f09290085cf66a3dca",
+  "date": "2026-06-29",
+  "size": 1308634,
+  "notes": "Fix bao bug gia"
+}
