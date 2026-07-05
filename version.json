@@ -1,8 +1,8 @@
 {
   "version": "1.4.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "71d80a197dd78f12b55834a812e62398037ebc40761c6c638f17549a7ddd01d7",
+  "sha256": "066188fc327df25f06ba60a3cdd08e7065ab6798c66c421fb1038790909495cf",
   "date": "2026-07-05",
-  "size": 1575375,
-  "notes": "Magic Merger OTA Update • Exclusive Safe Merge: Auto-scans and neutralizes 3ds Max malware before merging. • Secure Archives: Natively supports extracting password-protected files (.zip/.rar/.7z). • Pro UI: Synchronized Dark Theme with crisp, scalable Vector Icons. • Core Stability: Resolved Qt plugin crashes for rock-solid performance on 3ds Max 2024+."
+  "size": 1575764,
+  "notes": "Magic Merger OTA Update • Exclusive Safe Merge: Auto-scans and neutralizes 3ds Max malware before merging. • Secure Archives: Natively supports extracting password-protected files (.zip/.rar/.7z). • Pro UI: Synchronized Dark Theme with crisp, scalable Vector Icons. • Core Stability: Resolved Qt plugin crashes for rock-solid performance on 3ds Max 2024+"
 }
