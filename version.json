@@ -1,1 +1,8 @@
-
+{
+  "version": "1.4.1",
+  "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
+  "sha256": "8c61cf84bf96170c6e3889fddab001f2b29b40cb87b6a5f7b3144e2531dbcaa0",
+  "date": "2026-07-05",
+  "size": 1575763,
+  "notes": "What's New in Magic Merger v1.4.0 (OTA Update) ✨ Exclusive Safe Merge & Anti-Virus: Your scenes are now bulletproof. Magic Merger automatically detects and neutralizes 3ds Max malware (ALC/CRP/Trojan) before merging, ensuring a 100% clean workflow. 🔒 Encrypted Archive Support: Added full support for extracting and merging password-protected .rar, .zip, and .7z files directly from the UI. 🎨 Unified Pro UI: A massive visual upgrade with scalable Vector Icons, perfectly synchronized with the ArchiH3 ecosystem's premium Dark Theme. 🔧 Core Stability (Qt Fix): Completely resolved the notorious Qt Platform Plugin crash on 3ds Max 2024+, delivering a rock-solid, centralized runtime loading system."
+}
