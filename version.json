@@ -1,15 +1,8 @@
 {
-  "version": "1.4.5",
+  "version": "1.5.1",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "0d29548a0eb5024bd540fb375a97b87c7fc5af92c1d32cda0c3675d99dd20f05",
-  "date": "2026-07-06",
-  "size": 1712655,
-  "notes": "Hotfix"
-}{
-  "version": "1.4.5",
-  "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "0d29548a0eb5024bd540fb375a97b87c7fc5af92c1d32cda0c3675d99dd20f05",
-  "date": "2026-07-06",
-  "size": 1712655,
-  "notes": "Hotfix"
+  "sha256": "932e0b204b40d0bc01a2737fbd036add47e62fdc0bd836d8098a675ea94f94cd",
+  "date": "2026-07-10",
+  "size": 1843080,
+  "notes": "Safer merge: virus scan now runs in review-and-confirm mode with full Undo; smarter texture relink for network paths and duplicate filenames; Ctrl+Z now works for small batches; each model appears in the viewport as it lands; warns before merging very heavy files; plus several scene-safety fixes."
 }
