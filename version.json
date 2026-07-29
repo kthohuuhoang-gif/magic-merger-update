@@ -1,8 +1,8 @@
 {
-  "version": "1.5.2",
+  "version": "1.6.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "b27dd1e88b10f12a2ce0efb6efec7cdededb0a6e652b630435d9f4b159f81c70",
-  "date": "2026-07-27",
-  "size": 1904188,
-  "notes": "Magic Merger v1.5.2 - Stability and Security UpdateImproved SSSE security validation, deterministic FBX importing, encrypted multi-model archive handling, extraction-cache reliability, Safe Import OFF parity, worker shutdown safety, UI re-entrancy guards, license/HWID preservation, and release identity handling. Also includes general merge, relink, cleanup, and viewport stability improvements."
+  "sha256": "a343c6036b195ef4702511b1df5c1a8dbc141fd1ee8e8696e91d36f0bc6258ec",
+  "date": "2026-07-29",
+  "size": 2152829,
+  "notes": "Added Queue Presets, native minimize support, Vietnamese input improvements, and stability fixes."
 }
