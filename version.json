@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "a343c6036b195ef4702511b1df5c1a8dbc141fd1ee8e8696e91d36f0bc6258ec",
-  "date": "2026-07-29",
-  "size": 2152829,
-  "notes": "Added Queue Presets, native minimize support, Vietnamese input improvements, and stability fixes."
+  "sha256": "587e677793539465373a6aa47c3a887f599e5294a3226d1b0ba77745a8ea8a58",
+  "date": "2026-08-12",
+  "size": 2477653,
+  "notes": "Update UI"
 }
