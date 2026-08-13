@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-merger-update/releases/download/magic-latest-update/MagicMerger_Update.zip",
-  "sha256": "09721c817edd2a1404dd3f371aba57132f0226e492306587f24f1db3effb6909",
-  "date": "2026-08-12",
-  "size": 2477113,
-  "notes": "Update UI"
+  "sha256": "36bc3c8df397d7481be3c16bb261311b74d81e19367ad17f09268532f612902e",
+  "date": "2026-08-13",
+  "size": 2478674,
+  "notes": "Support 2027"
 }
